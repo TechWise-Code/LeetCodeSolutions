@@ -9,14 +9,14 @@ Welcome to our LeetCode solutions repository! This repository contains solutions
 The primary goals of this repository are to:
 
 1. Document solutions to LeetCode problems
-2. Provide clear and comprehensive explanations for each solution
+2. Provide the code for the explanations on LeetCode
 3. Demonstrate multiple approaches to solving problems when applicable
 4. Help fellow programmers understand the thought process behind problem-solving
 5. Create a resource for beginners to advanced programmers to learn from
 
 ## Solution Structure 📝
 
-Each solution follows a detailed and structured format designed to maximize learning and understanding:
+Each LeetCode solution follows a detailed and structured format designed to maximize learning and understanding:
 
 1. **Problem Description**: A brief summary of the problem, inputs, and expected outputs.
 2. **Initial Thoughts**: Our first impressions and understanding of the problem.
@@ -73,12 +73,12 @@ Each solution follows a detailed and structured format designed to maximize lear
 .
 ├── README.md
 ├── Easy
-│   ├── 0128_Pascals_Triangle
-│   ├── 0509_Fibonacci_Number
+│   ├── 0128_Pascals_Triangle.py
+│   ├── 0509_Fibonacci_Number.py
 │   └── ...
 ├── Medium
-│   ├── 0002_Add_Two_Numbers
-│   ├── 0129_Sum_Root_to_Leaf_Numbers
+│   ├── 0002_Add_Two_Numbers.py
+│   ├── 0129_Sum_Root_to_Leaf_Numbers.py
 │   └── ...
 └── Hard
     └── ...
