@@ -97,7 +97,6 @@ Please feel free to open an issue or submit a pull request. Together we can crea
 
 ## Connect With Us 🔗
 
-[GitHub Profile Link]
 [LeetCode Profile Link](https://leetcode.com/TechWise/)
 
 ---
