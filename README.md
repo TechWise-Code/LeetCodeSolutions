@@ -73,12 +73,12 @@ Each solution follows a detailed and structured format designed to maximize lear
 .
 ├── README.md
 ├── Easy
-│   ├── 0128_Pascal's Triangle
-│   ├── 0509_Fibonacci Number
+│   ├── 0128_Pascals_Triangle
+│   ├── 0509_Fibonacci_Number
 │   └── ...
 ├── Medium
-│   ├── 0002_Add Two Numbers
-│   ├── 0129_Sum Root to Leaf Numbers
+│   ├── 0002_Add_Two_Numbers
+│   ├── 0129_Sum_Root_to_Leaf_Numbers
 │   └── ...
 └── Hard
     └── ...
